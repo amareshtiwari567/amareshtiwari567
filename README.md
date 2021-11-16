@@ -9,9 +9,9 @@
 ### Articles & Blogs
 <a href="" target="_blank">![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
 <a href="" target="_blank">![image](https://img.shields.io/badge/Gists-181717?style=for-the-badge&logo=GitHub&logoColor=white)</a>
-<a href="" target="_blank">![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
+<a href="https://stackoverflow.com/users/17431493/amaresh-tiwari?tab=profile" target="_blank">![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 <a href="" target="_blank">![image](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)</a>
-<a href="" target="_blank">![image](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>
+<a href="https://pin.it/6qHkr62" target="_blank">![image](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>
 
 ### Language, Frameworks, IDEs & Opreating Systems
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
