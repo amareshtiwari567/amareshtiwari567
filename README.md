@@ -9,7 +9,6 @@
 ### Articles & Blogs
 <a href="https://www.quora.com/profile/Amaresh-Tiwari-6" target="_blank">![image](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)</a>
 <a href="https://stackoverflow.com/users/17431493/amaresh-tiwari?tab=profile" target="_blank">![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
-<a href="" target="_blank">![image](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)</a>
 <a href="https://pin.it/6qHkr62" target="_blank">![image](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>
 
 ### Language, Frameworks, IDEs & Opreating Systems
