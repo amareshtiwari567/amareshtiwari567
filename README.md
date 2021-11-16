@@ -7,11 +7,11 @@
 <a href="https://twitter.com/Amaresh40744797" target="_blank">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 ### Articles & Blogs
-<a href="https://sys-beginners.blogspot.com/" target="_blank">![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
-<a href="https://gist.github.com/utgupta27" target="_blank">![image](https://img.shields.io/badge/Gists-181717?style=for-the-badge&logo=GitHub&logoColor=white)</a>
-<a href="https://stackoverflow.com/users/16489656/utsav-gupta?tab=profile" target="_blank">![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
-<a href="https://meta.stackexchange.com/users/1038161/utsav-gupta" target="_blank">![image](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)</a>
-<a href="https://in.pinterest.com/utgupta27/_saved/" target="_blank">![image](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>
+<a href="" target="_blank">![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
+<a href="" target="_blank">![image](https://img.shields.io/badge/Gists-181717?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a href="" target="_blank">![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
+<a href="" target="_blank">![image](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)</a>
+<a href="" target="_blank">![image](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>
 
 ### Language, Frameworks, IDEs & Opreating Systems
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
