@@ -4,7 +4,7 @@
 <a href="https://t.me/amareshtiwari567" target="_blank">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://www.instagram.com/amareshtiwari567/" target="_blank">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/amareshtiwari567/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/Amaresh40744797" target="_blank">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://twitter.com/amaresht567" target="_blank">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 ### Articles & Blogs
 <a href="https://www.quora.com/profile/Amaresh-Tiwari-6" target="_blank">![image](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)</a>
